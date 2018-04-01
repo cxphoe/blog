@@ -2,6 +2,8 @@
 
 > a demo of my blog website vue project
 
+网站页面设计借鉴 @viosey 的网站 [blog.viosey.com](https://blog.viosey.com)
+
 **源码：** [phoeninee/phoenine](https://github.com/phoeninee/phoenine)
 
 ## 功能
