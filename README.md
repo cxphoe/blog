@@ -29,7 +29,7 @@
 	  "imgPaths": {
 	    // 头像
 	    "avatar": "/static/img/avatar.png",
-	    // 读取github库的logo失败时，使用的图片
+	    // 默认的repository卡片logo
 	    "default": "/static/img/logo.png",
 	    // home页面右侧logo图片
 	    "logo": "/static/img/logo.png",
@@ -37,12 +37,18 @@
 	    "sidebar": "/static/img/bg1.jpg",
 	    // home页面左侧motto背景图片
 	    "motto": "/static/img/bg2.jpg"
+	  },
+
+	  "repoLogos": {
+	    "Tetris": "/static/img/logo/Tetris.png"
 	  }
 	}
 
 ### github信息
 
 通过 config.json 中的 gitUsername，使用 git API 获得 git repository 的信息
+
+config.json 中的repoLogos项表示想要在repository卡片中显示的logo。在加载过程中会先用repository的名字检查是否有这项设置。若没有则加载默认图片。
 
 ### 文章编辑界面
 
