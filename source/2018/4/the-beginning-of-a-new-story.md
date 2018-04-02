@@ -20,7 +20,7 @@
 
 尽管`scss`写了不少，但都只是些基本的用法，还要好好再去看一遍文档。
 
-至于`ElementUI`，一开始还在感概，这个工具好像很不错的样子。但它毕竟样式是固定的，想要做出自己想要的效果，以及想要好好学习`Vue`用法，还是得自己造轮子。
+至于`ElementUI`，一开始还在感概，这个工具好像很不错的样子。但它毕竟样式是固定的，想要做出自己想要的效果，以及想要好好学习`Vue`用法，还是得自己造组件。在这过程造的组件在这 [phoeninee/phoenine/src/extension](https://github.com/phoeninee/Phoenine/tree/master/src/extension)
 
 ## Vue-router
 
