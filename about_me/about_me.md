@@ -8,13 +8,13 @@
 
 ## JS
 
-17年底通过了解[Lydia Hallie](https://medium.com/@lydiahallie)开始对JS产生兴趣。18年1月初看完JS基础教程以及萧井陌的直播视频之后，写下[Tetris](https://github.com/phoeninee/Tetris)的雏形，正式入坑。
+17年底通过了解[Lydia Hallie](https://medium.com/@lydiahallie)开始对JS产生兴趣。18年1月初看完JS基础教程以及萧井陌的直播视频之后，写下[Tetris](https://github.com/phoeninee/Tetris)的雏形，开始入坑。
 
 # Social
 
 **主页**： [blog.phoenine.com](https://blog.phoenine.com)
 
-**Mail**： <a href="mailto:562818991@qq.com">562818991.com</a>
+**Mail**： <a href="mailto:562818991@qq.com">562818991@qq.com</a>
 
 **Github**： [Phoeninee](https://github.com/phoeninee)
 
