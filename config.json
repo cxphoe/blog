@@ -10,5 +10,9 @@
     "logo": "/static/img/logo.png",
     "sidebar": "/static/img/bg1.jpg",
     "motto": "/static/img/bg2.jpg"
+  },
+
+  "repoLogos": {
+    "Tetris": "/static/img/logo/Tetris.png"
   }
 }
